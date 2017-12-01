@@ -1,6 +1,6 @@
 FROM java:8
 
-ENV NODE_VERSION_PREFIX 5
+ENV NODE_VERSION_PREFIX 8
 
 ADD build-node.sh /tmp/
 
